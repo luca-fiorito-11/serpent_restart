@@ -9,7 +9,7 @@ where `N` is the step number where you want the file to restart (default is `1`)
 
 This script reads input changes from a csv file such as [data.csv](data.csv).
 
-The header od the files contains the placeholders that you must add in the Serpent input file.
+The header of the csv file contains the placeholders that you must add in the Serpent input file.
 At each step, this bash script takes care of replacing the placeholder with the corresponding value. 
 
 
